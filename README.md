@@ -7,3 +7,12 @@ Stereo, multi-tone generator.  Setup multiple tones, with optional pulse envelop
 - Portaudio
 - Ogg
 - Vorbis
+- Ncurses
+
+## Controls
+
+Arrow keys to move around the menu.
+Space bar to enable/disable elements.
+Less/Greater than to change values by a large amount.
+Shift Less/Greater than to change values by a small amount.
+
